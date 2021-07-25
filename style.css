@@ -85,6 +85,9 @@ footer{
     main article{
         grid-template-columns:1fr;  
     }
+    header nav ul li{
+        padding: 5px;
+    }
     
 }
 
