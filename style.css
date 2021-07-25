@@ -78,12 +78,8 @@ footer{
         flex-direction: column;
         width: auto;
     }
-    main{
+    main,main article{
         grid-template-columns: 1fr;
-    }
-
-    main article{
-        grid-template-columns:1fr;  
     }
     header nav ul li{
         padding: 5px;
